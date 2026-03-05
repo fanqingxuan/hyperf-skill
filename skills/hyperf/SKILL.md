@@ -1,6 +1,6 @@
 ---
 name: hyperf-skill
-description: Hyperf 3.1 framework development assistant. Use when the user needs to: (1) Create Hyperf controllers, (2) Create Hyperf models, (3) Create Hyperf commands, (4) Implement services, (5) Configure routes, (6) Use dependency injection, (7) Handle validation, or any other Hyperf 3.1 development tasks. Triggers on phrases like "创建 Hyperf 控制器", "生成模型", "创建命令", "Hyperf 开发".
+description: "Hyperf 3.1 framework development assistant. Use when the user needs to: (1) Create Hyperf controllers, (2) Create Hyperf models, (3) Create Hyperf commands, (4) Implement services, (5) Configure routes, (6) Use dependency injection, (7) Handle validation, or any other Hyperf 3.1 development tasks. Triggers on phrases like \"创建 Hyperf 控制器\", \"生成模型\", \"创建命令\", \"Hyperf 开发\"."
 ---
 
 # Hyperf 3.1 开发指南
