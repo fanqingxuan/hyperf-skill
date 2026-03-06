@@ -699,7 +699,7 @@ go build -o app main.go
 
 ## 官方示例索引
 
-详细示例请参考 `references/examples/` 目录：
+详细示例请参考 `references/docs_examples/` 目录：
 
 ### 📦 ADK (Agent Development Kit)
 
@@ -766,7 +766,7 @@ go build -o app main.go
 
 - **框架概览**: [references/overview.md](references/overview.md) - Eino 框架完整梳理，包含核心概念、使用场景、学习路径
 - **README**: [references/readme.md](references/readme.md) - 官方 README 文档（英文）
-- **官方示例**: [references/examples/](references/examples/) - 官方示例代码库
-- **示例说明**: [references/examples/COOKBOOK.md](references/examples/COOKBOOK.md) - 每个示例的详细说明
+- **官方示例**: [references/docs_examples/](references/docs_examples/) - 官方示例代码库
+- **示例说明**: [references/docs_examples/COOKBOOK.md](references/docs_examples/COOKBOOK.md) - 每个示例的详细说明
 - **官方文档**: https://www.cloudwego.io/docs/eino/ - 在线文档
 - **扩展组件**: https://github.com/cloudwego/eino-ext - 组件实现库
